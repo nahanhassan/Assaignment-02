@@ -1,0 +1,79 @@
+@media screen and (max-width: 576px) {
+  .nav-container {
+    display: flex;
+  }
+  .options {
+    display: none;
+  }
+
+  .mobile {
+    display: flex;
+
+  }
+  .banner-container {
+    flex-direction: column;
+  }
+
+  .club {
+    display: none;
+  }
+
+  .btn {
+    display: flex;
+  }
+
+  .card-1 {
+    top: 480px;
+    right: 50px;
+  }
+
+  .card-2 {
+    top: 780px;
+    left: 0px;
+  }
+
+  .play{
+    position: absolute;
+    top: 28px;
+    left: 32px;
+  }
+
+  .text,
+  .image {
+    width: 100%;
+  }
+
+  .banner-img {
+    margin-top: 50px;
+    margin-left: 0px;
+  }
+
+  .trainer {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .run-container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+  }
+
+  .team-collage {
+    grid-template-columns: 1fr;
+    margin-bottom: 10px;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .bottom {
+    grid-template-columns: 1fr;
+  }
+
+  .bmi-container {
+    flex-direction: column;
+  }
+}
