@@ -331,6 +331,7 @@ body {
 
 }
 
+
 .bmi-text-1 > h2 {
   color: white;
   font-size: 48px;
@@ -394,7 +395,7 @@ thead{
 }
 
 .bmi-input > p {
-  color: white;
+  color: #8d8d8d;
   font-size: 10px;
 }
 
