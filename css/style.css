@@ -501,7 +501,7 @@ select {
 .bottom-2,
 .bottom-3,
 .bottom-1 > p {
-  color: rgba(22, 212, 22, 0.646);
+  color: #8d8d8d;
 }
 
 .bottom-2 > h3,
@@ -518,7 +518,7 @@ select {
 .footer {
   width: 72% auto;
   background-color: #121212;
-  color: white;
+  color: #8d8d8d;
   line-height: auto;
   display: flex;
   align-items: center;
@@ -527,3 +527,4 @@ select {
   /* font-weight: 600; */
   padding: 10px;
 }
+
