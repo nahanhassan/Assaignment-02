@@ -487,6 +487,9 @@ select {
 
 .team-1-text > p {
   margin-top: -10px;
+
+
+  
 }
 
 /* bottom section  */
@@ -497,6 +500,8 @@ select {
   grid-template-columns: 2.5fr 1.5fr 1.5fr;
   align-items: center;
   justify-content: center;
+  margin-bottom: 1px;
+  margin-top: 50px;
 }
 
 .bottom-2,

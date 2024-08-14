@@ -60,6 +60,10 @@
     gap: 5px;
   }
 
+  .mres{
+    width: 100%;
+  }
+
   .team-collage {
     grid-template-columns: 1fr;
     margin-bottom: 10px;
